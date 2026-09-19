@@ -100,10 +100,8 @@ A secure digital voting platform with AI-powered facial authentication.
 
 ### SAP Labs India
 
-**Software Engineer**
+**Software Engineer**(2024- present)
 
-Working across SAP enterprise products including SuccessFactors
-and Digital Manufacturing Cloud.
 
 Areas of experience:
 
